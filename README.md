@@ -1,4 +1,4 @@
-<table align="center" style="background-color:#0d1117;border-radius:12px;padding:4px;border:none;">
+<table align="center" style="background-color:#0d1117;">
   <tr>
     <td align="center" style="border:none;">
       <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
