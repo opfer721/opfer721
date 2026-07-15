@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirez25&layout=compact&theme=dracula" />
-</p>
+https://github-stats-extended.vercel.app/api?username=octocat&theme=radical
